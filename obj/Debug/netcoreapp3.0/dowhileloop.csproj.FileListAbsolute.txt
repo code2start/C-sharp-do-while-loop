@@ -1,0 +1,11 @@
+C:\csharp\ar\dowhileloop\bin\Debug\netcoreapp3.0\dowhileloop.exe
+C:\csharp\ar\dowhileloop\bin\Debug\netcoreapp3.0\dowhileloop.deps.json
+C:\csharp\ar\dowhileloop\bin\Debug\netcoreapp3.0\dowhileloop.runtimeconfig.json
+C:\csharp\ar\dowhileloop\bin\Debug\netcoreapp3.0\dowhileloop.runtimeconfig.dev.json
+C:\csharp\ar\dowhileloop\bin\Debug\netcoreapp3.0\dowhileloop.dll
+C:\csharp\ar\dowhileloop\bin\Debug\netcoreapp3.0\dowhileloop.pdb
+C:\csharp\ar\dowhileloop\obj\Debug\netcoreapp3.0\dowhileloop.csprojAssemblyReference.cache
+C:\csharp\ar\dowhileloop\obj\Debug\netcoreapp3.0\dowhileloop.AssemblyInfoInputs.cache
+C:\csharp\ar\dowhileloop\obj\Debug\netcoreapp3.0\dowhileloop.AssemblyInfo.cs
+C:\csharp\ar\dowhileloop\obj\Debug\netcoreapp3.0\dowhileloop.dll
+C:\csharp\ar\dowhileloop\obj\Debug\netcoreapp3.0\dowhileloop.pdb
